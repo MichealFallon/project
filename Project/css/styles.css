@@ -22,6 +22,7 @@ body{
 body{
     background-image: url(../images/wigglylines.jpg);
 }
-.basket{
-    float: right;
+#aboutp{
+    color: slateblue;
+    font-size: 1.5em;
 }
